@@ -15,6 +15,6 @@ def frac_sack(arr, w):
 
     return p
 
-arr = [[40,10],[100, 20],[120, 30]]
+arr = [[60,10],[100, 20],[120, 30]]
 w = 50
 print(frac_sack(arr, w))
